@@ -1,0 +1,12 @@
+
+ul {
+    max-height: 500px;
+    width: 400px;
+    overflow: scroll;
+    list-style-type: none;
+    border: #000;
+}
+
+#list{
+	overflow: auto;
+}
