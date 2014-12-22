@@ -19,7 +19,6 @@ angular.module('testApp', [])
     app.loadItems();
   })
 
-  
   .directive('infiniteScroll', function(){
     return {
       restrict: 'A',
